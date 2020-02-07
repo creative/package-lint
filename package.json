@@ -1,0 +1,19 @@
+{
+  "name": "package-lint",
+  "version": "0.1.0",
+  "description": "A linter for auditing the package structure and dependency setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creative/package-lint.git"
+  },
+  "author": "Stephen Esser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/creative/package-lint/issues"
+  },
+  "homepage": "https://github.com/creative/package-lint#readme"
+}
