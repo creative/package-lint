@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "A linter for auditing the package structure and dependency setup",
   "main": "./lib/api.js",
+  "bin": {
+    "package-lint": "./bin/package-lint.js"
+  },
   "scripts": {
     "lint": "eslint --ext .js .",
     "test": "echo \"Running tests...\""
