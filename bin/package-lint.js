@@ -2,4 +2,4 @@
 
 const { CLI } = require('../lib/cli');
 
-process.exit = CLI.execute(process.argv);
+process.exitCode = CLI.execute(process.argv);
