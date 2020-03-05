@@ -19,6 +19,12 @@
   "bugs": {
     "url": "https://github.com/creative/package-lint/issues"
   },
+  "keywords": [
+    "lint",
+    "javascript",
+    "package-lint",
+    "creative"
+  ],
   "homepage": "https://github.com/creative/package-lint#readme",
   "devDependencies": {
     "eslint": "^6.8.0"
